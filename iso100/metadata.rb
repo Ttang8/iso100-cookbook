@@ -1,5 +1,5 @@
-name        "spooky"
-description "Installs Spooky"
+name        "iso100"
+description "Installs Iso100"
 maintainer  "Gene"
 license     "Apache 2.0"
 version     "1.0.0"
