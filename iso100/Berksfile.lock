@@ -1,5 +1,5 @@
 DEPENDENCIES
-  spooky
+  iso100
     path: .
     metadata: true
 
@@ -13,6 +13,13 @@ GRAPH
     mingw (>= 1.1)
     seven_zip (>= 0.0.0)
   ipaddr_extensions (0.3.2)
+  iso100 (1.0.0)
+    apt (= 6.1.4)
+    nginx (>= 0.0.0)
+    nodejs (>= 0.0.0)
+    postgres (>= 0.0.0)
+    ruby-ng (>= 0.0.0)
+    unicorn (>= 0.0.0)
   mingw (2.0.2)
     seven_zip (>= 0.0.0)
   nginx (8.1.2)
@@ -41,13 +48,6 @@ GRAPH
     windows (>= 1.2.2)
   smf (2.2.8)
     rbac (>= 1.0.1)
-  spooky (1.0.0)
-    apt (= 6.1.4)
-    nginx (>= 0.0.0)
-    nodejs (>= 0.0.0)
-    postgres (>= 0.0.0)
-    ruby-ng (>= 0.0.0)
-    unicorn (>= 0.0.0)
   unicorn (2.1.2)
     build-essential (>= 0.0.0)
   windows (4.1.4)

@@ -1,8 +1,8 @@
 {
-  "name": "spooky",
-  "description": "Installs Spooky",
+  "name": "iso100",
+  "description": "Installs Iso100",
   "long_description": "",
-  "maintainer": "Gene",
+  "maintainer": "Terrence",
   "maintainer_email": "YOUR_EMAIL",
   "license": "Apache 2.0",
   "platforms": {
